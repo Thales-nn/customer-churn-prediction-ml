@@ -1,2 +1,18 @@
-# customer-churn-prediction-ml
-Projeto de Machine Learning para análise de dados e previsão de cancelamento de clientes (Customer Churn) em uma empresa de telecomunicações, utilizando Python, Pandas e Scikit-learn.
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
